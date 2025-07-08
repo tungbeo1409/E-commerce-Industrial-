@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ffu-cleanroom.com	TRUE	/	FALSE	1999999999	332231h	14
+ffu-cleanroom.com	TRUE	/	FALSE	1999999999	ueid	3abf5dca17aa98137b4f3cb49845535a
+
